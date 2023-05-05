@@ -1,0 +1,9 @@
+[package]
+name = "bb_logger_examples"
+version = "0.0.1"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bb_logger = { path = ".." }
