@@ -3,9 +3,7 @@
 
 Barebones logger for Rust.
 
-This crate is in very early development, so watch out for bugs! Please also keep in mind that this `README.md` may be not be up to date due to rapid updates.
-
-Report bugs [here](https://github.com/Luxzi/bb-logger/issues)
+> **Warning**  This crate is in very early development, so watch out for bugs! Report bugs [here.](https://github.com/Luxzi/bb-logger/issues)
 
 ## Usage example
 
